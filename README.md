@@ -1,16 +1,106 @@
-# React + Vite
+# 💻 Aftab Dharwad — Developer Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern, responsive personal portfolio showcasing my projects, technical skills, education, and software development experience. Built with React and Vite, with a focus on clean UI, interactive elements, and smooth animations.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 🚀 Features
 
-## React Compiler
+- 👨‍💻 Personal introduction and developer profile
+- 🛠️ Technical skills with technology icons
+- 📂 Project showcase
+- 🎓 Education and experience section
+- ✉️ Contact section with clickable email
+- 📄 Resume viewing and download
+- ✨ Interactive UI with smooth animations
+- 📱 Responsive design for different screen sizes
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## 🛠️ Technologies Used
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- React.js
+- Vite
+- JavaScript
+- HTML5
+- CSS3
+- Framer Motion
+- Lucide React
+- React Icons
+- Git and GitHub
+
+---
+
+## 📂 Project Structure
+
+```text
+aftab-portfolio/
+├── public/
+│   ├── Aftab_Dharwad_Resume.pdf
+│   ├── favicon.svg
+│   └── icons.svg
+├── src/
+│   ├── assets/
+│   │   └── hero.png
+│   ├── App.jsx
+│   ├── App.css
+│   ├── index.css
+│   └── main.jsx
+├── .gitignore
+├── index.html
+├── package.json
+├── package-lock.json
+└── vite.config.js
+```
+
+---
+
+## ▶️ How to Run the Project
+
+### 1️⃣ Clone the repository
+
+```bash
+git clone https://github.com/Aftab-dharwad/aftab-portfolio.git
+cd aftab-portfolio
+```
+
+### 2️⃣ Install dependencies
+
+```bash
+npm install
+```
+
+### 3️⃣ Start the development server
+
+```bash
+npm run dev
+```
+
+### 4️⃣ Open the application
+
+Open the local URL displayed in your terminal, usually:
+
+```text
+http://localhost:5173
+```
+
+---
+
+## 📌 Future Improvements
+
+- ☁️ Deploy the portfolio online
+- 📈 Add more projects and case studies
+- 🎨 Continue improving UI and animations
+- 🔗 Add the live portfolio link to LinkedIn
+- 📬 Enhance recruiter contact options
+
+---
+
+## 📫 Contact
+
+- **GitHub:** https://github.com/Aftab-dharwad
+- **Email:** aftabdharwad40@gmail.com
+
+---
+
+⭐ Thank you for visiting my portfolio repository!
